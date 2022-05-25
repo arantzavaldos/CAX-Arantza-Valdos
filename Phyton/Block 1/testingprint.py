@@ -1,0 +1,6 @@
+print("hello world")
+print("my name is Arantza")
+print("my grade is 9")
+print("im in 9A")
+print("my favorite food are tacos dorados")
+print("and i want to share you that i like videogames")
