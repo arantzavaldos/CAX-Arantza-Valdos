@@ -1,0 +1,6 @@
+print("Commitments in school:")
+print("Pay attention, and have good grades")
+print("Commitments in the class:")
+print("Deliver on time the codes")
+print("Commitments to myself:")
+print("Be more productive")
